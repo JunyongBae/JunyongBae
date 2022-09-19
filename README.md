@@ -22,7 +22,8 @@ startup operation of a nuclear power plant", Nuclear Engineering and Technology 
 5.	**Junyong Bae** and Seung Jun Lee, "Application of Deep Reinforcement Learning for Multi-objective and Continuous Control of Reactor Coolant", KNS 2022 Autumn, Changwon, Korea (2022.10)
 ### International Conference
 1.	2018 KNS Student Conference Best Paper Award (2018. 11)
-2.	2022 제5회 박창규 PSA 대학(원)생 논문상 (2022. 10)
+2.  2021 원자력-인공지능 융합 사례연구 발표회 우수상 (2021. 11)
+3.	2022 제5회 박창규 PSA 대학(원)생 논문상 (2022. 10)
 ### International Training
 1. RELAP5, TRACE, RELAP/SCDAPSIM, MARS-KS training course (Barcelona, Spain, 2018. 06)
 
