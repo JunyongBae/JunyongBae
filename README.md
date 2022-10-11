@@ -20,7 +20,7 @@ startup operation of a nuclear power plant", Nuclear Engineering and Technology 
 3.	**Junyong Bae**, Jae Min Kim, and Seung Jun Lee, "An Autonomous Pressure Controller based on Approximation of Action Value Function", 2020 KNS Autumn, Virtual conference, Korea (2020. 12)
 4.	**Junyong Bae**, Jong Woo Park, Seung Jun Lee, "Adaptive Sampling for Limit Surface Search using Deep Neural Network and Monte Carlo Dropout", KNS 2021 Autumn, Virtual, Korea (2021.10)
 5.	**Junyong Bae** and Seung Jun Lee, "Application of Deep Reinforcement Learning for Multi-objective and Continuous Control of Reactor Coolant", KNS 2022 Autumn, Changwon, Korea (2022.10)
-### International Conference
+### Awards
 1.	2018 KNS Student Conference Best Paper Award (2018. 11)
 2.  2021 원자력-인공지능 융합 사례연구 발표회 우수상 (2021. 11)
 3.	2022 제5회 박창규 PSA 대학(원)생 논문상 (2022. 10)
