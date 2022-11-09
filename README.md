@@ -4,7 +4,7 @@
 2.	**Junyong Bae**, Geunhee Kim, Seung Jun Lee, “Real-time prediction of nuclear power plant parameter trends following operator actions,” Expert Systems with Applications, vol 186 (December 2021) IF: 8.665, PERCENTILE: 91.38% (Q1) in OPERATIONS RESEARCH & MANAGEMENT SCIENCE, CITATIONS: 6, [See details](https://doi.org/10.1016/j.eswa.2021.115848)
 3.	**Junyong Bae**, Jong Woo Park, and Seung Jun Lee, "Limit Surface/States Searching Algorithm with a Deep Neural Network and Monte Carlo Dropout for Nuclear Power Plant Safety Assessment", Applied Soft Computing, vol 124 (July 2022) IF: 8.263, PERCENTILE: 90.71% (Q1) in COMPUTER SCIENCE, INTERDISCIPLINARY APPLICATIONS, CITATIONS: 0, [See details](https://doi.org/10.1016/j.asoc.2022.109007)
 4.	Jeeyea Ahn, **Junyong Bae**, Byung Joo Min, and Seung Jun Lee, "Operation validation system to prevent human errors in nuclear power plants", Nuclear Engineering and Design, vol 397 (October 2022) IF: 1.900, PERCENTILE: 66.18% (Q2) in NUCLEAR SCIENCE & TECHNOLOGY, CITATIONS: 0, [See details](https://doi.org/10.1016/j.nucengdes.2022.111949)
-5.	Ji Hyeon Shin, **Junyong Bae**, Jae Min Kim, and Seung Jun Lee, "An Interpretable Convolutional Neural Network for Nuclear Power Plant Abnormal Events", Applied Soft Computing (Under review)
+5.	Ji Hyeon Shin, **Junyong Bae**, Jae Min Kim, and Seung Jun Lee, "An Interpretable Convolutional Neural Network for Nuclear Power Plant Abnormal Events", Applied Soft Computing (Accepted)
 6.	Jae Min Kim, **Junyong Bae**, and Seung Jun Lee, "Strategy to coordinate actions through a plant parameter prediction model during
 startup operation of a nuclear power plant", Nuclear Engineering and Technology (Under review)
 ### 🌱 International Conference 🌱
@@ -14,13 +14,13 @@ startup operation of a nuclear power plant", Nuclear Engineering and Technology 
 4.	**Junyong Bae**, Jong Woo Park, and Seung Jun Lee, "Optimization of Thermal-hydraulic System Code Runs for Deep Learning-based Consequence Prediction", PSA 2021, Columbus, U.S. (2021.11)
 5.	**Junyong Bae**, Jong Woo Park, Seung Jun Lee, "Uncertainty-aware Limit Surface Search Algorithm using Deep Neural Network", 2021 ANS winter, Washington DC, U.S. (2021.12)
 6.	**Junyong Bae**, Jong Woo Park, Seung Jun Lee, "Deep-learning for Guided Simulation of Scenarios for Dynamic Probabilistic Risk Assessment", PSAM 16, Honolulu, U.S. (2022.06)
-### 👯 Domestic Conference 👯
+### :sweat_drops: Domestic Conference :sweat_drops:
 1.	**Junyong Bae** and Seung Jun Lee, "Operation Validation System through Time Series Forecasting by Artificial Neural Network", 2018 KNS Student Conference, Yeosu, Korea (2018. 10)
 2.	**Junyong Bae** and Seung Jun Lee, "Framework for Operator Manipulation Validation System using Plant Parameter Prediction", 2019 KNS Autumn, Go-yang, Korea (2019. 10)
 3.	**Junyong Bae**, Jae Min Kim, and Seung Jun Lee, "An Autonomous Pressure Controller based on Approximation of Action Value Function", 2020 KNS Autumn, Virtual conference, Korea (2020. 12)
 4.	**Junyong Bae**, Jong Woo Park, Seung Jun Lee, "Adaptive Sampling for Limit Surface Search using Deep Neural Network and Monte Carlo Dropout", KNS 2021 Autumn, Virtual, Korea (2021.10)
 5.	**Junyong Bae** and Seung Jun Lee, "Application of Deep Reinforcement Learning for Multi-objective and Continuous Control of Reactor Coolant", KNS 2022 Autumn, Changwon, Korea (2022.10)
-### Awards
+### :pray: Awards :pray:
 1.	2018 KNS Student Conference Best Paper Award (2018. 11)
 2.  2021 원자력-인공지능 융합 사례연구 발표회 우수상 (2021. 11)
 3.	2022 제5회 박창규 PSA 대학(원)생 논문상 (2022. 10)
