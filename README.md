@@ -1,10 +1,10 @@
-## Publication 👋 (22.11.23)
+## Publication 👋 (22.12.30)
 ### ✨ SCI Journals ✨
 1. **Junyong Bae**, Jeeyea Ahn, and Seung Jun Lee, "Comparison of Multi-layer Perceptron and Long Short-Term Memory for Plant Parameter Trend Prediction,” Nuclear Technology, vol 206, issue 7, pp.951 - 961 (July 2020) IF: 1.667, PERCENTILE: 45.59% (Q3) in NUCLEAR SCIENCE & TECHNOLOGY, CITATIONS: 7, [See details](https://doi.org/10.1080/00295450.2019.1693215)
 2.	**Junyong Bae**, Geunhee Kim, Seung Jun Lee, “Real-time prediction of nuclear power plant parameter trends following operator actions,” Expert Systems with Applications, vol 186 (December 2021) IF: 8.665, PERCENTILE: 91.38% (Q1) in OPERATIONS RESEARCH & MANAGEMENT SCIENCE, CITATIONS: 9, [See details](https://doi.org/10.1016/j.eswa.2021.115848)
 3.	**Junyong Bae**, Jong Woo Park, and Seung Jun Lee, "Limit Surface/States Searching Algorithm with a Deep Neural Network and Monte Carlo Dropout for Nuclear Power Plant Safety Assessment", Applied Soft Computing, vol 124 (July 2022) IF: 8.263, PERCENTILE: 90.71% (Q1) in COMPUTER SCIENCE, INTERDISCIPLINARY APPLICATIONS, CITATIONS: 0, [See details](https://doi.org/10.1016/j.asoc.2022.109007)
-4.	Jeeyea Ahn, **Junyong Bae**, Byung Joo Min, and Seung Jun Lee, "Operation validation system to prevent human errors in nuclear power plants", Nuclear Engineering and Design, vol 397 (October 2022) IF: 1.900, PERCENTILE: 66.18% (Q2) in NUCLEAR SCIENCE & TECHNOLOGY, CITATIONS: 0, [See details](https://doi.org/10.1016/j.nucengdes.2022.111949)
-5.	Ji Hyeon Shin, **Junyong Bae**, Jae Min Kim, and Seung Jun Lee, "An Interpretable Convolutional Neural Network for Nuclear Power Plant Abnormal Events", Applied Soft Computing, IF: 8.263, PERCENTILE: 90.71% (Q1) in COMPUTER SCIENCE, INTERDISCIPLINARY APPLICATIONS, CITATIONS: 0, [See details](https://doi.org/10.1016/j.asoc.2022.109792)
+4.	Jeeyea Ahn, **Junyong Bae**, Byung Joo Min, and Seung Jun Lee, "Operation validation system to prevent human errors in nuclear power plants", Nuclear Engineering and Design, vol 397 (October 2022) IF: 1.900, PERCENTILE: 66.18% (Q2) in NUCLEAR SCIENCE & TECHNOLOGY, CITATIONS: 1, [See details](https://doi.org/10.1016/j.nucengdes.2022.111949)
+5.	Ji Hyeon Shin, **Junyong Bae**, Jae Min Kim, and Seung Jun Lee, "An Interpretable Convolutional Neural Network for Nuclear Power Plant Abnormal Events", Applied Soft Computing, vol 132 (January 2023) IF: 8.263, PERCENTILE: 90.71% (Q1) in COMPUTER SCIENCE, INTERDISCIPLINARY APPLICATIONS, CITATIONS: 0, [See details](https://doi.org/10.1016/j.asoc.2022.109792)
 6.	Jae Min Kim, **Junyong Bae**, and Seung Jun Lee, "Strategy to coordinate actions through a plant parameter prediction model during
 startup operation of a nuclear power plant", Nuclear Engineering and Technology, IF: 2.817, PERCENTILE: 83.82% (Q1) in NUCLEAR SCIENCE & TECHNOLOGY, CITATIONS: 0, [See details](https://doi.org/10.1016/j.net.2022.11.012)
 ### 🌱 International Conference 🌱
@@ -20,6 +20,7 @@ startup operation of a nuclear power plant", Nuclear Engineering and Technology,
 3.	**Junyong Bae**, Jae Min Kim, and Seung Jun Lee, "An Autonomous Pressure Controller based on Approximation of Action Value Function", 2020 KNS Autumn, Virtual conference, Korea (2020. 12)
 4.	**Junyong Bae**, Jong Woo Park, Seung Jun Lee, "Adaptive Sampling for Limit Surface Search using Deep Neural Network and Monte Carlo Dropout", KNS 2021 Autumn, Virtual, Korea (2021.10)
 5.	**Junyong Bae** and Seung Jun Lee, "Application of Deep Reinforcement Learning for Multi-objective and Continuous Control of Reactor Coolant", KNS 2022 Autumn, Changwon, Korea (2022.10)
+6.	**Junyong Bae** and Seung Jun Lee, "Sensitivity Study about Hyperparameters of a Guided Simulation Algorithm with Deep-learning", ASRAM 2022, Daejeon, Korea (2022.11)
 ### :pray: Awards :pray:
 1.	2018 KNS Student Conference Best Paper Award (2018. 11)
 2.  2021 원자력-인공지능 융합 사례연구 발표회 우수상 (2021. 11)
