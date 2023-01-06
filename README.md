@@ -27,5 +27,8 @@ startup operation of a nuclear power plant", Nuclear Engineering and Technology,
 3.	2022 제5회 박창규 PSA 대학(원)생 논문상 (2022. 10)
 ### International Training
 1. RELAP5, TRACE, RELAP/SCDAPSIM, MARS-KS training course (Barcelona, Spain, 2018. 06)
+### Others
+1. Bachelor’s Degree in Nuclear Science and Engineering and Electrical Engineering (2nd) at Ulsan National Institute of Science & Technology (UNIST), Ulsan, Republic of Korea, 2019, GPA - 3.86
+2. Teaching Assistant for General Pysics II (2017, 2018), Nuclear Power Plant Instrumentation and Control Systems (2019, 2020), Introduction to Nuclear Reactor Operation (2021), NPP Accident Diagnosis using AI Techniques (2022), Nuclear Safety and Safety Culture (2022)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJunyongBae&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
