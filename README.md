@@ -1,4 +1,4 @@
-## Publication 👋 (23.07.02)
+## Publication 👋 (23.11.03)
 ### ✨ SCI Journals ✨
 1. **Junyong Bae**, Jae Min Kim, and Seung Jun Lee, "Deep Reinforcement Learning for a Multi-Objective Operation in a Nuclear Power Plant", Nuclear Engineering and Technology (Published online) IF: 2.7, PERCENTILE: 86.8% (Q1) in NUCLEAR SCIENCE & TECHNOLOGY, CITATIONS: 0, [See details](https://doi.org/10.1016/j.net.2023.06.009)
 2. Jae Min Kim, **Junyong Bae**, and Seung Jun Lee, "Strategy to coordinate actions through a plant parameter prediction model during startup operation of a nuclear power plant", Nuclear Engineering and Technology, vol 55 (March 2023) IF: 2.7, PERCENTILE: 86.8% (Q1) in NUCLEAR SCIENCE & TECHNOLOGY, CITATIONS: 0, [See details](https://doi.org/10.1016/j.net.2022.11.012)
