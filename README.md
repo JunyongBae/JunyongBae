@@ -17,7 +17,7 @@
 6. **Junyong Bae**, Jong Woo Park, Seung Jun Lee, "Deep-learning for Guided Simulation of Scenarios for Dynamic Probabilistic Risk Assessment", PSAM 16, Honolulu, U.S. (2022.06)
 7. **Junyong Bae**, Jong Woo Park, Seung Jun Lee, "Uncertainty-aware Limit Surface Search Algorithm using Deep Neural Network", 2021 ANS winter, Washington DC, U.S. (2021.12)
 8. **Junyong Bae**, Jong Woo Park, Seung Jun Lee, "Optimization of Thermal-hydraulic System Code Runs for Deep Learning-based Consequence Prediction", PSA 2021, Online (2021.11)
-9. Jae Min Kim, **Junyong Bae, Seung Jun Lee, "Comparison of Detection Time for Abnormality Diagnosis Model Using Two-stage Gated Recurrent Units", ICAPP 2021, Online (2021. 6)
+9. Jae Min Kim, **Junyong Bae**, Seung Jun Lee, "Comparison of Detection Time for Abnormality Diagnosis Model Using Two-stage Gated Recurrent Units", ICAPP 2021, Online (2021. 6)
 10. **Junyong Bae** and Seung Jun Lee, "Nuclear Power Plant Parameter Prediction Strategy for Human Error Detection", 2019 ANS Winter Meeting, Washington D.C., USA (2019. 11)
 11. **Junyong Bae** and Seung Jun Lee, "Application of Artificial Neural Network for Plant Parameter Forecasting", 2019 ANS Student Conference, Richmond, USA (2019. 4)
 12. Jeeyea Ahn, **Junyong Bae** and Seung Jun Lee, "A Human Error Detection System in Nuclear Power Plant Operations", 2019 NPIC&HMIT, Orlando, USA (2019. 2)
