@@ -1,12 +1,13 @@
 ## Publication 👋 (23.11.03)
 ### ✨ SCI Journals ✨
-1. **Junyong Bae**, Jae Min Kim, and Seung Jun Lee, "Deep Reinforcement Learning for a Multi-Objective Operation in a Nuclear Power Plant", Nuclear Engineering and Technology (Published online) IF: 2.7, PERCENTILE: 86.8% (Q1) in NUCLEAR SCIENCE & TECHNOLOGY, CITATIONS: 0, [See details](https://doi.org/10.1016/j.net.2023.06.009)
-2. Jae Min Kim, **Junyong Bae**, and Seung Jun Lee, "Strategy to coordinate actions through a plant parameter prediction model during startup operation of a nuclear power plant", Nuclear Engineering and Technology, vol 55 (March 2023) IF: 2.7, PERCENTILE: 86.8% (Q1) in NUCLEAR SCIENCE & TECHNOLOGY, CITATIONS: 0, [See details](https://doi.org/10.1016/j.net.2022.11.012)
-3. Ji Hyeon Shin, **Junyong Bae**, Jae Min Kim, and Seung Jun Lee, "An Interpretable Convolutional Neural Network for Nuclear Power Plant Abnormal Events", Applied Soft Computing, vol 132 (January 2023) IF: 8.263, PERCENTILE: 90.71% (Q1) in COMPUTER SCIENCE, INTERDISCIPLINARY APPLICATIONS, CITATIONS: 0, [See details](https://doi.org/10.1016/j.asoc.2022.109792)
-4. Jeeyea Ahn, **Junyong Bae**, Byung Joo Min, and Seung Jun Lee, "Operation validation system to prevent human errors in nuclear power plants", Nuclear Engineering and Design, vol 397 (October 2022) IF: 1.7, PERCENTILE: 60.3% (Q2) in NUCLEAR SCIENCE & TECHNOLOGY, CITATIONS: 3, [See details](https://doi.org/10.1016/j.nucengdes.2022.111949)
-5. **Junyong Bae**, Jong Woo Park, and Seung Jun Lee, "Limit Surface/States Searching Algorithm with a Deep Neural Network and Monte Carlo Dropout for Nuclear Power Plant Safety Assessment", Applied Soft Computing, vol 124 (July 2022) IF: 8.7, PERCENTILE: 89.5% (Q1) in COMPUTER SCIENCE, INTERDISCIPLINARY APPLICATIONS, CITATIONS: 2, [See details](https://doi.org/10.1016/j.asoc.2022.109007)
-6. **Junyong Bae**, Geunhee Kim, Seung Jun Lee, “Real-time prediction of nuclear power plant parameter trends following operator actions”, Expert Systems with Applications, vol 186 (December 2021) IF: 8.5, PERCENTILE: 93.6% (Q1) in OPERATIONS RESEARCH & MANAGEMENT SCIENCE, CITATIONS: 23, [See details](https://doi.org/10.1016/j.eswa.2021.115848)
-7. **Junyong Bae**, Jeeyea Ahn, and Seung Jun Lee, "Comparison of Multi-layer Perceptron and Long Short-Term Memory for Plant Parameter Trend Prediction”, Nuclear Technology, vol 206 (July 2020) IF: 1.5, PERCENTILE: 48.5% (Q3) in NUCLEAR SCIENCE & TECHNOLOGY, CITATIONS: 9, [See details](https://doi.org/10.1080/00295450.2019.1693215)
+1. **Junyong Bae**, and Seung Jun Lee, "Current Progress in the Application of Artificial Intelligence for Nuclear Power Plant Operation", Korean Journal of Chemical Engineering (Under review)
+2. **Junyong Bae**, Jae Min Kim, and Seung Jun Lee, "Deep Reinforcement Learning for a Multi-Objective Operation in a Nuclear Power Plant", Nuclear Engineering and Technology (Published online) IF: 2.7, PERCENTILE: 86.8% (Q1) in NUCLEAR SCIENCE & TECHNOLOGY, CITATIONS: 0, [See details](https://doi.org/10.1016/j.net.2023.06.009)
+3. Jae Min Kim, **Junyong Bae**, and Seung Jun Lee, "Strategy to coordinate actions through a plant parameter prediction model during startup operation of a nuclear power plant", Nuclear Engineering and Technology, vol 55 (March 2023) IF: 2.7, PERCENTILE: 86.8% (Q1) in NUCLEAR SCIENCE & TECHNOLOGY, CITATIONS: 0, [See details](https://doi.org/10.1016/j.net.2022.11.012)
+4. Ji Hyeon Shin, **Junyong Bae**, Jae Min Kim, and Seung Jun Lee, "An Interpretable Convolutional Neural Network for Nuclear Power Plant Abnormal Events", Applied Soft Computing, vol 132 (January 2023) IF: 8.263, PERCENTILE: 90.71% (Q1) in COMPUTER SCIENCE, INTERDISCIPLINARY APPLICATIONS, CITATIONS: 0, [See details](https://doi.org/10.1016/j.asoc.2022.109792)
+5. Jeeyea Ahn, **Junyong Bae**, Byung Joo Min, and Seung Jun Lee, "Operation validation system to prevent human errors in nuclear power plants", Nuclear Engineering and Design, vol 397 (October 2022) IF: 1.7, PERCENTILE: 60.3% (Q2) in NUCLEAR SCIENCE & TECHNOLOGY, CITATIONS: 4, [See details](https://doi.org/10.1016/j.nucengdes.2022.111949)
+6. **Junyong Bae**, Jong Woo Park, and Seung Jun Lee, "Limit Surface/States Searching Algorithm with a Deep Neural Network and Monte Carlo Dropout for Nuclear Power Plant Safety Assessment", Applied Soft Computing, vol 124 (July 2022) IF: 8.7, PERCENTILE: 89.5% (Q1) in COMPUTER SCIENCE, INTERDISCIPLINARY APPLICATIONS, CITATIONS: 3, [See details](https://doi.org/10.1016/j.asoc.2022.109007)
+7. **Junyong Bae**, Geunhee Kim, Seung Jun Lee, “Real-time prediction of nuclear power plant parameter trends following operator actions”, Expert Systems with Applications, vol 186 (December 2021) IF: 8.5, PERCENTILE: 93.6% (Q1) in OPERATIONS RESEARCH & MANAGEMENT SCIENCE, CITATIONS: 27, [See details](https://doi.org/10.1016/j.eswa.2021.115848)
+8. **Junyong Bae**, Jeeyea Ahn, and Seung Jun Lee, "Comparison of Multi-layer Perceptron and Long Short-Term Memory for Plant Parameter Trend Prediction”, Nuclear Technology, vol 206 (July 2020) IF: 1.5, PERCENTILE: 48.5% (Q3) in NUCLEAR SCIENCE & TECHNOLOGY, CITATIONS: 11, [See details](https://doi.org/10.1080/00295450.2019.1693215)
 	
 ### 🌱 International Conference 🌱
 1. Yunyeong Heo, **Junyong Bae**, Seung Jun Lee, "A framework of dynamic importance measure", ASRAM 2023, Kowloon Tong, Hong Kong (2023. 10)
@@ -33,10 +34,11 @@
 8.	**Junyong Bae** and Seung Jun Lee, "Operation Validation System through Time Series Forecasting by Artificial Neural Network", 2018 KNS Student Conference, Yeosu, Korea (2018. 10)
 
 ### :pray: Awards :pray:
-1. 2023 두산에너빌리티 장학생 (2023. 10)
-2. 2022 제5회 박창규 PSA 대학(원)생 논문상 (2022. 10)
-3. 2021 원자력-인공지능 융합 사례연구 발표회 우수상 (2021. 11)
-4. 2018 KNS Student Conference Best Paper Award (2018. 11)
+1. 2023 KNS Autumn Best Paper Award "Postprocessing of Multi-dimensional Limit Surfaces Searched by a Deep Learning-based Algorithm"
+2. 2023 두산에너빌리티 장학생 (2023. 10)
+3. 2022 제5회 박창규 PSA 대학(원)생 논문상 (2022. 10)
+4. 2021 원자력-인공지능 융합 사례연구 발표회 우수상 (2021. 11)
+5. 2018 KNS Student Conference Best Paper Award (2018. 11)
 
 ### International Training
 1. RELAP5, TRACE, RELAP/SCDAPSIM, MARS-KS training course (Barcelona, Spain, 2018. 06)
